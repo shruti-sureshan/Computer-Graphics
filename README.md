@@ -16,5 +16,5 @@ Computer Graphics is the use of computers to create and manipulate pictures on a
 •	Polygon Clipping<br/>
 •	Projection of 3D object on Projection Plane<br/>
 
-You can also connect with me on LinkedIn or can contact me via gmail. Happy Coding!!
+
 
